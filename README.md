@@ -1,1 +1,8 @@
-# reminder.0
+# Flask Reminder System
+
+
+#features
+- Create 
+- Retrieve
+- Update
+- Delete
